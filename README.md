@@ -5,6 +5,12 @@ A simple multithreading processing pipeline in C++
 
 A C++ Compiler and CMake to compile this example.
 
+Just run:
+
+```
+mkdir build && cd build && cmake .. && make
+```
+
 To include this into your own software, just copy the headers from "include"
 
 ## Introduction
