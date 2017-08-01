@@ -1,6 +1,12 @@
 # Pipelines
 A simple multithreading processing pipeline in C++
 
+## Requirements
+
+A C++ Compiler and CMake to compile this example.
+
+To include this into your own software, just copy the headers from "include"
+
 ## Introduction
 
 This is a simple toolset for creating a multithreaded processing pipeline in C++, you need to define a
